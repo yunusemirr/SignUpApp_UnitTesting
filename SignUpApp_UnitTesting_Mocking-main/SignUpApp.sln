@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpApp", "SignUpApp\SignUpApp.csproj", "{716FAB57-E831-4C94-87BF-927BF704D2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716FAB57-E831-4C94-87BF-927BF704D2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716FAB57-E831-4C94-87BF-927BF704D2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716FAB57-E831-4C94-87BF-927BF704D2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716FAB57-E831-4C94-87BF-927BF704D2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12F8DAD-E3EA-4F21-8815-C09D18512346}
+	EndGlobalSection
+EndGlobal
